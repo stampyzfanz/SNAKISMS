@@ -11,7 +11,7 @@ self.addEventListener('install', e => {
         'snakes/Snake.js',
         'snakes/Anthropomorphism.js',
         'snakes/Apocalypticism.js',
-        'snakes/Asceticism.js',
+        'snakes/Alcoholism.js',
         'snakes/Capitalism.js',
         'snakes/Casualism.js',
         'snakes/Conservatism.js',

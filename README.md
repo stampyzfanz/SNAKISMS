@@ -1,6 +1,6 @@
 ## The Game
 
-[Play SNAKISMS](http://pippinbarr.github.io/SNAKISMS/) in your browser (mobile- and tablet-friendly)
+[Play SNAKISMS](http://stampyzfanz.github.io/SNAKISMS/) in your browser (mobile- and tablet-friendly)
 
 ## Information
 

@@ -29,6 +29,11 @@ Points go up while not eating? But that’s a form of pleasure perhaps, so no po
 
 ***avoid the apple, you lose when you eat it (plausibly getting points to indicate the goal)***
 
+### Alcoholism
+The snake moves around badly looking drunk.
+
+***The snake uncontrollably moves a block to the left every 5 blocks***
+
 ### Capitalist
 Maybe something with in-app purchases here? You have to buy it…? Bit simple, but might do the job… But it might be TOO simple
 
